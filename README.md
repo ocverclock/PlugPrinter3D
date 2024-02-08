@@ -1,0 +1,1 @@
+I wanted to set up a system capable of automatically turning off the power supply at the end of my 3D prints and then publishing an MQTT request so it could be used in subsequent actions, such as notifying the completion of printing. My goal was to create a simple yet functional system meeting these requirements.
